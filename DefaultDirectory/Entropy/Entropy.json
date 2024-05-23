@@ -3,20 +3,13 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Gallery1": 5,
-    "galleryTemplate1": 6,
     "Host": 3,
-    "Image1": 7,
-    "NextArrow1": 10,
-    "Rectangle1": 12,
-    "Screen1": 4,
-    "Separator1": 11,
-    "Subtitle1": 9,
-    "Title1": 8
+    "Screen Roberta nie ruszać!!!": 13,
+    "Screen1": 4
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/23/2024 11:23:24",
+  "HeaderLastSavedDateTimeUTC": "05/23/2024 11:24:31",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "a4f85664-6419-490d-9517-e85b6bf34562": "\"/providers/microsoft.powerapps/apis/shared_office365/connections/5c2a4ad8f5034abf899c92ed451adf9b\""
@@ -33,40 +26,20 @@
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "gallery": 0,
-    "icon": 3,
-    "image": 1,
-    "label": 2,
-    "rectangle": 4
-  },
+  "OrderXMLTemplate": {},
   "OverridablePropertiesEntry": {
     "App": {},
-    "Gallery1": {},
-    "galleryTemplate1": {},
     "Host": {},
-    "Image1": {},
-    "NextArrow1": {},
-    "Rectangle1": {},
-    "Screen1": {},
-    "Separator1": {},
-    "Subtitle1": {},
-    "Title1": {}
+    "Screen Roberta nie ruszać!!!": {},
+    "Screen1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
-    "Gallery1": 0,
-    "galleryTemplate1": 0,
     "Host": 0,
-    "Image1": 0,
-    "NextArrow1": 0,
-    "Rectangle1": 0,
-    "Screen1": 0,
-    "Separator1": 0,
-    "Subtitle1": 0,
-    "Title1": 0
+    "Screen Roberta nie ruszać!!!": 0,
+    "Screen1": 0
   },
   "ResourcesJsonIndices": {
     "Image-SampleImage": 0
