@@ -47,7 +47,7 @@
             PaddingLeft: =0
             PaddingRight: =0
             PaddingTop: =0
-            Text: =ThisItem.Body
+            Text: =ThisItem.BodyPreview
             VerticalAlign: =VerticalAlign.Top
             Width: =Title2.Width
             X: =Title2.X
