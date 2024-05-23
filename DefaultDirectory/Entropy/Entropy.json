@@ -3,24 +3,24 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Gallery2": 5,
-    "galleryTemplate2": 6,
+    "Gallery2": 6,
+    "galleryTemplate2": 7,
     "Host": 3,
-    "Image2": 7,
-    "NextArrow2": 10,
-    "Rectangle2": 12,
-    "Screen Roberta nie ruszać!!!": 4,
-    "Screen1": 13,
-    "Separator2": 11,
-    "Subtitle2": 9,
-    "Title2": 8
+    "Image2": 8,
+    "NextArrow2": 11,
+    "Rectangle2": 13,
+    "Screen Roberta nie ruszać!!!": 5,
+    "Screen1": 4,
+    "Separator2": 12,
+    "Subtitle2": 10,
+    "Title2": 9
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/23/2024 11:26:55",
+  "HeaderLastSavedDateTimeUTC": "05/23/2024 12:08:02",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
-    "a4f85664-6419-490d-9517-e85b6bf34562": "\"/providers/microsoft.powerapps/apis/shared_office365/connections/61bd148c8b97429b8695dfc7ab1028f6\""
+    "a4f85664-6419-490d-9517-e85b6bf34562": "\"/providers/microsoft.powerapps/apis/shared_office365/connections/5c2a4ad8f5034abf899c92ed451adf9b\""
   },
   "LocalDatabaseReferencesAsEmpty": true,
   "LocalResourceFileNames": {},
@@ -77,7 +77,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1876328,
+    "AnalysisLoadTime": 0.1758554,
     "ControlCount": {
       "gallery": 1,
       "galleryTemplate": 1,
@@ -87,7 +87,7 @@
       "rectangle": 2,
       "screen": 2
     },
-    "DeserializationLoadTime": 0.681327
+    "DeserializationLoadTime": 0.800456
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
