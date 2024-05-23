@@ -6,6 +6,7 @@
             =Office365Outlook.GetEmails({fetchOnlyUnread:false})
         Layout: =Layout.Vertical
         LoadingSpinner: =LoadingSpinner.Data
+        OnSelect: =Office365Outlook.MarkAsRead(EmailID.Text)
         TemplatePadding: =0
         TemplateSize: =104
         X: =40
